@@ -32,4 +32,6 @@ Example:
 
 **John 3:16 -** `16` For God loved the world in this way: He gave his one and only Son, so that everyone who believes in him will not perish but have eternal life.
 
+**Ephesians 6:10 (ESV) -** `10` Finally, be strong in the Lord and in the strength of his might.
+
 **Hebrews 12:11-13 -** `11` No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it. `12` Therefore, strengthen your feeble arms and weak knees. 
