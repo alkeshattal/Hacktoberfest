@@ -4,6 +4,9 @@ Add your favourite bible verses below.
 
 ----
 
+John 1.1
+
+In the beginning was the Word, and the Word was with God, and the Word was God.
 
 1 Peter 5:7 Cast all your anxiety on him because he cares for you.
 
@@ -26,3 +29,4 @@ Philippians 4:13 ESV - I can do all things through him who strengthens me.
 ### Hebrews 12:11-13
 
 11 No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it. 12 Therefore, strengthen your feeble arms and weak knees. 
+
