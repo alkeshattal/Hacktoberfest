@@ -4,6 +4,9 @@ Add your favourite bible verses below.
 
 ----
 
+
+Philippians 4:13 ESV - I can do all things through him who strengthens me.
+
 1 Peter 4:8: “Above all, love each other deeply, because love covers over a multitude of sins."
 
 # Peter 3:14
