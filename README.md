@@ -4,9 +4,8 @@ Add your favourite bible verses below.
 
 ----
 
-John 1.1
-
-In the beginning was the Word, and the Word was with God, and the Word was God.
+# John 1.1
+>In the beginning was the Word, and the Word was with God, and the Word was God.
 
 1 Peter 5:7 Cast all your anxiety on him because he cares for you.
 
