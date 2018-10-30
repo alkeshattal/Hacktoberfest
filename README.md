@@ -4,6 +4,8 @@ Add your favourite bible verses below.
 
 ----
 
+1 Peter 4:8: “Above all, love each other deeply, because love covers over a multitude of sins."
+
 # Peter 3:14
 >But even if you should suffer for what is right, you are blessed "Do not fear their threats; do not be frightened
 ----
