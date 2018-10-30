@@ -1,8 +1,10 @@
 # Hacktoberfest 2018 
 
-> Add your favourite bible verses below.
+> Add your favourite bible verses to this readme file. Remember to [format your contributions](#template) correctly.
 
-Please follow the following template.
+## BiblioSpot
+
+BiblioSpot is an online platform for writing sermon notes. [Try it now!](https://bibliospot.com/register)
 
 ## Template
 
