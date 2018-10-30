@@ -30,3 +30,6 @@ Philippians 4:13 ESV - I can do all things through him who strengthens me.
 
 11 No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it. 12 Therefore, strengthen your feeble arms and weak knees. 
 
+# Ephesians 6:10 ESV
+
+Finally, be strong in the Lord and in the strength of his might.
