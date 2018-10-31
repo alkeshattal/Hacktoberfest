@@ -39,3 +39,5 @@ Example:
 **Hebrews 12:11-13 -** `11` No discipline seems pleasant at the time, but painful. Later on, however, it produces a harvest of righteousness and peace for those who have been trained by it. `12` Therefore, strengthen your feeble arms and weak knees. 
 
 **Hebrews 9:1-2 (KJV) -** `1` THEN verily the first convenant had also ordinances of divine service, and a wordly sanctuary. `2` For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
+
+**Isaiah 41:3-4 (KJV) -** `3` He pursued them, and passed safely; even by the way that he had not gone with his feet. `4` Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he.
