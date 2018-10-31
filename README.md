@@ -40,4 +40,9 @@ Example:
 
 **Hebrews 9:1-2 (KJV) -** `1` THEN verily the first convenant had also ordinances of divine service, and a wordly sanctuary. `2` For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 
-**Jeremiah 29:11 -**  For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.
+
+**Jeremiah 29:11 -** `11` For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.
+
+**Revelation 16:15-16 (KJV) -** `15` Behold, I come as a thief. Blessed is he that watcheth, and keepeth his garments, lest he walk naked, and they see his shame. `16` And he gathered them together into a place called in the Hebrew tongue Armageddon. 
+
+**Isaiah 41:3-4 (KJV) -** `3` He pursued them, and passed safely; even by the way that he had not gone with his feet. `4` Who hath wrought and done it, calling the generations from the beginning? I the LORD, the first, and with the last; I am he.
