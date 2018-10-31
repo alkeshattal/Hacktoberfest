@@ -18,6 +18,8 @@ Example:
 
 ----
 
+**Genesis 4:9 -** `9` Then the LORD said to Cain, "Where is your brother Abel?" "I don't know," he replied. "Am I my brother's keeper?"
+
 **John 1:1 -** `1` In the beginning was the Word, and the Word was with God, and the Word was God.
 
 **1 Peter 5:7 -** `7` Cast all your anxiety on him because he cares for you.
