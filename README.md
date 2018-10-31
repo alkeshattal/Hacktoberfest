@@ -42,6 +42,8 @@ Example:
 
 **Hebrews 9:1-2 (KJV) -** `1` THEN verily the first convenant had also ordinances of divine service, and a wordly sanctuary. `2` For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 
+**John 15:13 (KJV) -** `1` Greater love hath no man than this, that a man lay down his life for his friends.
+
 **Proverbs 16:9 -** `1` In their hearts humans plan their course, but the Lord establishes their steps.
 
 **John 15:13 -** `13` Greater love has no one than this: to lay down one’s life for one’s friends.
